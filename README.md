@@ -30,7 +30,7 @@ Investigating global music trends and genre patterns by analyzing Spotify’s au
 
 
 <h2>🌐 Socials:</h2>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/am%C3%A9lie-no%C3%ABl-lk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/am%C3%A9lie-no%C3%ABl-lk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 
 
 <!--
