@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello ! I am Amélie
+I’ve always been drawn to patterns : how small details fit together to reveal something larger. For me, data analysis feels a lot like solving a puzzle: collecting pieces, testing and investigating links, and gradually seeing the picture form. I enjoy exploring data, finding meaning and translating it into something clear and useful. 
+Outside of work, I’m very interested in science, astronomy, and music ; the same curiosity that drives how I look at data.
 <!--
 **AmelielN/AmelielN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
