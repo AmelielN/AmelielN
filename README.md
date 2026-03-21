@@ -45,7 +45,7 @@ En dehors du travail, je m’intéresse beaucoup à l’astronomie et la musique
   <li>Vision décisionnelle : transformer les données en recommandations stratégiques</li>
 </ul>
 
-
+<hr style="border: none; border-top: 1px solid #eaeaea; margin: 20px 0;">
 <h2>🚀 Projets</h2>
 
 <h3>🎧 Analyse de la Popularité Musicale (dataset Spotify)</h3>
@@ -69,6 +69,7 @@ En dehors du travail, je m’intéresse beaucoup à l’astronomie et la musique
 </ul>
 <p><strong>Résultat / Valeur ajoutée :</strong> contribution clé à la structuration et à la fiabilité des données pour l’analyse YouTube Music, préparant la production de dashboards et insights exploitables.<br>
 🔗 Lien à ajouter une fois validé par le propriétaire du projet.</p>
+<hr style="border: none; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
 
 <h2>🌐 Socials:</h2>
