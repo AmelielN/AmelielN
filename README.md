@@ -49,6 +49,7 @@ En dehors du travail, je m’intéresse beaucoup à l’astronomie et la musique
 <h2>🚀 Projets</h2>
 
 <h3>🎧 Analyse de la Popularité Musicale (dataset Spotify)</h3>
+<p>Projet pédagogique : l’analyse montre que la popularité Spotify est faiblement corrélée aux features audio ; le but principal est de démontrer mes compétences SQL & Python pour le nettoyage et l’EDA.</p>
 <ul>
   <li><strong>Exploration des tendances musicales et des patterns de genre</strong> pour identifier les macro-trends.</li>
   <li><strong>Analyse des caractéristiques audio</strong> (danceability, energy, tempo, valence…) pour déterminer les facteurs influençant la popularité des titres.</li>
