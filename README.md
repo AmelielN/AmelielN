@@ -58,7 +58,6 @@ Projet pédagogique d’analyse de données musicales : nettoyage, EDA, segmenta
   <li><strong>Tests et documentation</strong> : validation des résultats, mise en place de contrôles de qualité et documentation du projet pour assurer fiabilité et reproductibilité.</li>
   <li><strong>Visualisations décisionnelles (à venir)</strong> : Power BI pour explorer tendances d’écoute et contenus populaires.</li>
 </ul>
-<p><strong>Résultat / Valeur ajoutée :</strong> contribution clé à la structuration et à la fiabilité des données pour l’analyse YouTube Music, préparant la production de dashboards et insights exploitables.<br>
 🔗 Lien à ajouter une fois validé par le propriétaire du projet.</p>
 <hr style="border: none; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
