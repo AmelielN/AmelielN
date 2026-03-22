@@ -1,21 +1,22 @@
 ### 🧩 À propos de moi
 
 <p>J’ai toujours été intéressée par les schémas et les connexions : comment de petits détails s’assemblent pour révéler quelque chose de plus large. Pour moi, l’analyse de données, c’est un peu comme résoudre un puzzle : <strong>collecter les éléments, tester des liens, explorer les relations</strong>, et progressivement voir émerger une vue claire.<br>
-J’aime explorer les données, en extraire du sens et transformer ces <strong>insights en informations exploitables pour la prise de décision</strong>.<br>
-En dehors du travail, je m’intéresse beaucoup à l’astronomie et la musique ; la même curiosité guide ma manière d’aborder l’analyse de données.</p>
+En dehors du travail, je m’intéresse beaucoup à l’astronomie et la musique ; la même curiosité guide ma manière d’aborder l’analyse de données.
+Je développe actuellement mes compétences en analyse de données, visualisation et transformation, avec un intérêt particulier pour les projets mêlant rigueur analytique, structuration et résolution de problèmes.</p>
 
 
 
 <hr style="border: none; border-top: 1px solid #eaeaea; margin: 20px 0;">
 <h2>💻 Tech Stack:</h2>
 <ul>
-  <li>Python (pandas, matplotlib, scikit-learn)</li>
-  <li>SQL (requêtes avancées, window functions, subqueries)</li>
-  <li>Excel, Google Sheets (tableaux croisés dynamiques et filtres, fonctions avancées) </li>
-  <li>Power BI & Looker Studio (dashboards interactifs et visualisations décisionnelles)</li>
-  <li>Data Engineering & Data Steward : nettoyage, structuration, ingestion, automatisation via Git/GitHub, dbt, ETL/ELT pipelines</li>
-  <li>Machine Learning : régression, classification, clustering (Random Forest and XGBoost)</li>
+  <li><strong>SQL</strong> : requêtes avancées, jointures, CTE, subqueries, window functions</li>
+  <li><strong>Excel / Google Sheets</strong> : fonctions avancées, tableaux croisés dynamiques, nettoyage et analyse</li>
+  <li><strong>BI & visualisation</strong> : Power BI, Looker Studio</li>
+  <li><strong>Data transformation / workflow</strong> : Git, GitHub, dbt, Google Colab, BigQuery</li>
+  <li><strong>Python</strong> : pandas, matplotlib, scikit-learn</li>
+  <li><strong>Machine Learning</strong> : régression, classification, clustering</li>
 </ul>
+
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google BigQuery">
@@ -35,29 +36,18 @@ En dehors du travail, je m’intéresse beaucoup à l’astronomie et la musique
 </p>
 
 
-<h2>Compétences transversales - Business</h2>
-<ul>
-  <li>Esprit analytique et pensée critique</li>
-  <li>Communication claire et vulgarisation des résultats</li>
-  <li>Structuration et formalisation de l’information complexe</li>
-  <li>Sens de la pédagogie appliqué aux données</li>
-  <li>Collaboration en équipe et gestion de projet</li>
-  <li>Vision décisionnelle : transformer les données en recommandations stratégiques</li>
-</ul>
-
 <hr style="border: none; border-top: 1px solid #eaeaea; margin: 20px 0;">
 <h2>🚀 Projets</h2>
 
 <h3>🎧 Analyse de la Popularité Musicale (dataset Spotify)</h3>
-<p>Projet pédagogique : l’analyse montre que la popularité Spotify est faiblement corrélée aux features audio ; le but principal est de démontrer mes compétences SQL & Python pour le nettoyage et l’EDA.</p>
-<ul>
-  <li><strong>Exploration des tendances musicales et des patterns de genre</strong> pour identifier les macro-trends.</li>
-  <li><strong>Analyse des caractéristiques audio</strong> (danceability, energy, tempo, valence…) pour déterminer les facteurs influençant la popularité des titres.</li>
-  <li><strong>Nettoyage et structuration des données</strong>, création de dashboards interactifs et visualisations décisionnelles.</li>
-  <li><strong>Tests de modèles de Machine Learning</strong> (XGBoost) pour tester certaines hypothèses sur la prédiction de la popularité et des macro-genres.</li>
-  <li><strong>Gouvernance et qualité des données</strong> : contrôle de cohérence, traitement des valeurs manquantes et structuration pour usage analytique.</li>
-</ul>
-<p><strong>Résultat / Valeur ajoutée :</strong> compréhension claire des facteurs clés de popularité, permettant de <strong>guider décisions marketing et choix stratégiques de playlists</strong>.<br>
+<p>
+Projet pédagogique d’analyse de données musicales : nettoyage, EDA, segmentation de popularité, transformations SQL sous BigQuery et visualisations.
+</p>
+<p>
+<strong>Focus :</strong> data cleaning, structuration des données, analyse exploratoire et restitution.
+</p>
+<p>
+<strong>Note :</strong> ce projet met surtout en avant la méthodologie d’analyse et la préparation des données ; les résultats montrent que les audio features seules expliquent peu la popularité, ce qui peut permettre par exemple de <strong>guider les décisions marketing et choix stratégiques de playlists</strong>.<br>
 🔗 Pour plus de détails et visualisations interactives : <a href="https://github.com/AmelielN/Project-Portfolio-Audio-features-Popularity" target="_blank">Readme du projet Analyse de la Popularité Musicale</a></p>
 
 
