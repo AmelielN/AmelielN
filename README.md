@@ -50,7 +50,7 @@ Projet pédagogique d’analyse de données musicales : nettoyage, EDA, segmenta
 <strong>Note :</strong> ce projet met surtout en avant la méthodologie d’analyse et la préparation des données ; les résultats montrent que les audio features seules expliquent peu la popularité, ce qui peut permettre par exemple de <strong>guider les décisions marketing et choix stratégiques de playlists</strong>.<br>
 🔗 Pour plus de détails et visualisations interactives : <a href="https://github.com/AmelielN/Project-Portfolio-Audio-features-Popularity" target="_blank">Readme du projet Analyse de la Popularité Musicale</a></p>
 
-
+<hr style="border: none; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
 <h3>🎵 Projet YouTube Music Analytics (en cours)</h3>
 <ul>
