@@ -64,7 +64,7 @@ Dashboard Power BI orienté décisionnel pour analyser la performance commercial
 Projet d’analyse de données mobilisant <strong>SQL, Python et visualisation</strong> pour explorer les liens entre caractéristiques audio, genres et popularité.
 </p>
 
-🔗 <a href="https://github.com/AmelielN/Project-Portfolio-Audio-features-Popularity" target="_blank">Voir le projet (détails et visulasitaion interactive)</a>
+🔗 <a href="https://github.com/AmelielN/Project-Portfolio-Audio-features-Popularity" target="_blank">Voir le projet (détails/documentation et visulasitaion interactive)</a>
 <hr>
 
 <h3>🎵 YouTube Music Analytics <em>(en cours)</em></h3>
