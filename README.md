@@ -1,7 +1,7 @@
 ### 🧩 À propos de moi
 
-<p>J’ai toujours été intéressée par les schémas et les connexions : comment de petits détails s’assemblent pour révéler quelque chose de plus large. Pour moi, l’analyse de données, c’est un peu comme résoudre un puzzle : <strong>collecter les éléments, tester des liens, explorer les relations</strong>, et progressivement voir émerger une vue claire.<br>
-En dehors du travail, je m’intéresse beaucoup à l’astronomie et la musique ; la même curiosité guide ma manière d’aborder l’analyse de données.
+<p>J’ai toujours été curieuse des schémas et connexions : comment de petits détails s’assemblent pour révéler quelque chose de plus large. Pour moi, l’analyse de données, c’est un peu comme résoudre un puzzle : <strong>collecter les éléments, tester des liens, explorer les relations</strong>, et progressivement voir émerger une vue claire.<br>
+Je m’intéresse beaucoup à l’astronomie et la musique ; la même curiosité guide ma manière d’aborder l’analyse de données.
 Je développe actuellement mes compétences en analyse de données, visualisation et transformation, avec un intérêt particulier pour les projets mêlant rigueur analytique, structuration et résolution de problèmes.</p>
 
 
