@@ -37,28 +37,47 @@ Je développe actuellement mes compétences en analyse de données, visualisatio
 
 
 <hr style="border: none; border-top: 1px solid #eaeaea; margin: 20px 0;">
+
 <h2>🚀 Projets</h2>
 
-<h3>🎧 Analyse de la Popularité Musicale (dataset Spotify)</h3>
+<h3>🛍️ Analyse de la Performance Commerciale E-commerce</h3>
 <p>
-Projet pédagogique d’analyse de données musicales : nettoyage, EDA, segmentation de popularité, transformations SQL sous BigQuery et visualisations.
+Dashboard Power BI orienté décisionnel pour analyser la performance commerciale d’un e-commerce mode.
 </p>
-<p>
-<strong>Focus :</strong> data cleaning, structuration des données, analyse exploratoire et restitution.
-</p>
-<p>
-<strong>Note :</strong> ce projet met surtout en avant la méthodologie d’analyse et la préparation des données ; les résultats montrent que les audio features seules expliquent peu la popularité, ce qui peut permettre par exemple de <strong>guider les décisions marketing et choix stratégiques de playlists</strong>.<br>
-🔗 Pour plus de détails et visualisations interactives : <a href="https://github.com/AmelielN/Project-Portfolio-Audio-features-Popularity" target="_blank">Readme du projet Analyse de la Popularité Musicale</a></p>
 
-<hr style="border: none; border-top: 1px solid #eaeaea; margin: 20px 0;">
+<p><strong>Objectif :</strong> identifier les catégories à prioriser à partir du <strong>chiffre d’affaires, profit, marge, croissance et taux de retour</strong>.</p>
 
-<h3>🎵 Projet YouTube Music Analytics (en cours)</h3>
+<p><strong>Compétences démontrées :</strong></p>
 <ul>
-  <li><strong>Création et gestion de la partie History dans dbt</strong> : conception du projet, mise en place des pipelines analytiques, marts et transformations.</li>
-  <li><strong>Tests et documentation</strong> : validation des résultats, mise en place de contrôles de qualité et documentation du projet pour assurer fiabilité et reproductibilité.</li>
-  <li><strong>Visualisations décisionnelles (à venir)</strong> : Power BI pour explorer tendances d’écoute et contenus populaires.</li>
+  <li>définition et suivi de KPI business</li>
+  <li>analyse par catégorie et produit</li>
+  <li>data storytelling</li>
+  <li>visualisation décisionnelle sous Power BI</li>
 </ul>
-🔗 Lien à ajouter une fois validé par le propriétaire du projet.</p>
+
+<p>🔗 <a href="https://github.com/AmelielN/Tableau-de-bord-de-performance-e-commerce">Voir le projet</a></p>
+
+<hr>
+
+<h3>🎧 Analyse de la Popularité Musicale (Spotify)</h3>
+<p>
+Projet d’analyse de données mobilisant <strong>SQL, Python et visualisation</strong> pour explorer les liens entre caractéristiques audio, genres et popularité.
+</p>
+
+🔗 <a href="https://github.com/AmelielN/Project-Portfolio-Audio-features-Popularity" target="_blank">Voir le projet (détails et visulasitaion interactive)</a>
+<hr>
+
+<h3>🎵 YouTube Music Analytics <em>(en cours)</em></h3>
+<p>
+Projet collaboratif autour de <strong>dbt, transformations analytiques sur dbt, historisation et qualité des données</strong>.
+</p>
+
+<p>🔗 Lien à ajouter une fois validé par le propriétaire du projet.</p>
+
+
+
+
+
 <hr style="border: none; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
 
